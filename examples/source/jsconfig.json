@@ -1,0 +1,5 @@
+{
+    "typeAcquisition": {
+      "include": ["three","cannon-es"]
+    }
+}
